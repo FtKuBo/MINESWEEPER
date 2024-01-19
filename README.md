@@ -1,1 +1,3 @@
 # MINESWEEPER
+
+[gameInterface](./mnswpr.png)
